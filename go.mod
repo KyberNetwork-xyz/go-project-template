@@ -3,7 +3,7 @@ module github.com/KyberNetwork/go-project-template
 go 1.20
 
 require (
-	github.com/KyberNetwork/cclog v1.0.1
+	github.com/KyberNetwork/cclog v1.1.0
 	github.com/TheZeroSlave/zapsentry v1.9.0
 	github.com/ethereum/go-ethereum v1.10.25
 	github.com/getsentry/sentry-go v0.12.0
@@ -44,6 +44,7 @@ require (
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
+	github.com/pierrec/lz4/v3 v3.3.5 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rjeczalik/notify v0.9.1 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
